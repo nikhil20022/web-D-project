@@ -1,0 +1,29 @@
+.music-player {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .music-player h1 {
+    margin-bottom: 20px;
+  }
+  
+  #playlist {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #playlist li {
+    margin-bottom: 10px;
+  }
+  
+  #playlist li a {
+    text-decoration: none;
+    color: #6d2ad2;
+  }
+  
+  #playlist li a:hover {
+    font-weight: bold;
+  }
+  

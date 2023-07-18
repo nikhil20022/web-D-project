@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+
+  /* Heading styles */
+  h1 {
+    color: #333;
+  }
+
+  /* User interface components styles */
+  #userList,
+  #taskList {
+    background-color: #c6cbbe;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  /* Text input styles */
+  input[type="text"] {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+
+  /* Button styles */
+  button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #555;
+  }

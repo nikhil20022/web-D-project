@@ -1,0 +1,25 @@
+.quote-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .quote-container h1 {
+    margin-bottom: 20px;
+  }
+  
+  #quote {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  
+  #new-quote {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #6c39e1;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
